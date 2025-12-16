@@ -41,7 +41,7 @@ I enjoy building clean, efficient web applications and continuously improving my
 ---
 
 ## 📫 Contact
-- GitHub: **ziadmadin768@gmail.com**
+- Email: **ziadmadin768@gmail.com**
 - Always open to learning, collaboration, and new opportunities.
 
 ---
