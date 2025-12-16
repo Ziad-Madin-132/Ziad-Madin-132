@@ -1,50 +1,53 @@
-<div align="center">
+<div align="center" width="50">
 
-# 👋 Hi, I'm Ziad Mohamed
-
-### Web Developer
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 </div>
 
 ---
 
+## 👋 Hi, I'm Ziad Mohamed
+
+### 💻 Web Developer
+
+---
+
 ## 🚀 About Me
-I am a **Web Developer** with a strong foundation in front-end development and databases.  
-I enjoy building clean, efficient web applications and continuously improving my skills.
+I am a **Web Developer** with experience in front-end development and database systems.  
+I enjoy building web applications, working with databases, and improving my problem-solving skills.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tools I Use
 
-### 💻 Programming & Scripting
-- HTML5  
-- CSS3  
-- JavaScript  
-- Python  
-- C++
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
 
-### 🗄️ Databases
-- Oracle SQL  
-- PL/SQL  
-
-### ⚙️ Tools & Concepts
-- Problem Solving  
-- Database Design  
-- Web Development Fundamentals  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
-- Advanced JavaScript  
-- Backend & Database Optimization  
+```cpp
+// About Me - Tools Overview
 
----
+class AboutMe {
+public:
+    vector<string> ProgrammingLanguages = {
+        "HTML", "CSS", "JavaScript", "Python", "C++"
+    };
 
-## 📫 Contact
-- Email: **ziadmadin768@gmail.com**
-- Always open to learning, collaboration, and new opportunities.
+    vector<string> Databases = {
+        "Oracle SQL", "PL/SQL"
+    };
 
----
-
-## ⚡ Fun Fact
-I enjoy turning ideas into real, working web applications.
+    vector<string> Tools = {
+        "Git", "VS Code", "Linux"
+    };
+};
